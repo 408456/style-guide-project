@@ -1,0 +1,12 @@
+body { background: #fff; color: #202124; font-family: Arial, sans-serif; font-size: 17px; line-height: 1.65; }
+.navbar { background: #fff !important; border-bottom: 1px solid #ddd; box-shadow: none; }
+.navbar .navbar-brand, .navbar .nav-link { color: #202124 !important; }
+a { color: #145da0; text-decoration: underline; }
+h1,h2,h3 { color: #202124; font-weight: 600; }
+h1 { font-size: 2rem; margin-bottom: 1.2rem; }
+.bs-sidebar { background: #fafafa; box-shadow: none; }
+.bs-sidebar .nav > li > a { color: #333; }
+pre,code { background: #f6f6f6; color: #222; }
+:focus-visible { outline: 3px solid #145da0; outline-offset: 3px; }
+table { display: block; overflow-x: auto; }
+footer { color: #555; }
